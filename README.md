@@ -15,7 +15,7 @@ Esse desafio é proposto no curso **Dev Quest**, realizado pelo [Dev-em-Dobro](h
 
 ## Layout
 <br>
-[<img src="./src/images/slider-animation.gif">]
+[<img src="/src/images/slider-animation.gif">]
 
 
 ## Tecnologias utilizadas
